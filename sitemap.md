@@ -1,4 +1,4 @@
-Great — since you're using **Nuxt.js**, here's how you can generate a `sitemap.xml` and configure a `robots.txt` file properly:
+Tutorial Sitemap NuxtJs:
 
 ---
 
