@@ -1,5 +1,3 @@
-Great — since you're using **Nuxt.js**, here's how you can generate a `sitemap.xml` and configure a `robots.txt` file properly:
-
 ---
 
 ### ✅ 1. Install Sitemap & Robots Modules
@@ -77,5 +75,3 @@ Sitemap: https://yourdomain.com/sitemap.xml
 ```
 
 ---
-
-Let me know if you're using **Nuxt 3**, the setup is slightly different. Would you like the Nuxt 3 version instead?
